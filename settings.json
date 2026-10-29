@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "FunSMP-Ou8y.aternos.me",
+    "port": 26943,
     "version": "1.21.1"
   },
   "position": {
@@ -88,4 +88,3 @@
   "chat": {
     "respond": true
   }
-
